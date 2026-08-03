@@ -34,9 +34,9 @@
 
 ### 📄 Publication
 
-> **TFT-Flood for Nationwide Flood Prediction in Turkey: A Three-Branch Hybrid Deep Learning Architecture**
-> Hakan Sabuniş, Yusuf Ünlü, Mehmet Kemal Özdemir — **IEEE SIU 2026**
-> District-level, leak-free 1-day flood forecasting for 973 districts · 8-seed ensemble **AUC 0.909** (F1 0.84 / P 0.88 / R 0.81).
+> **TFT-Flood for Nationwide Flood Prediction in Turkey: A Three-Branch Hybrid Deep Learning Architecture**<br>
+> Hakan Sabuniş, Yusuf Ünlü, Mehmet Kemal Özdemir &nbsp;(**IEEE SIU 2026**)<br>
+
 
 ---
 
