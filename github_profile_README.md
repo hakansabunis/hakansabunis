@@ -3,9 +3,18 @@
 
 
 <p align="center">
-  <b>Electrical &amp; Electronics Engineer</b> · Istanbul Medipol University (Honor) · Working Student @ <b>Siemens Mobility</b><br>
-  🤖 <b>AI &amp; ML Interests</b> &nbsp;&nbsp;
+  <b>Electrical &amp; Electronics Engineer</b> </b><br>
+   <b>AI &amp; ML Interests</b>
 </p>
+
+<p align="center">
+  <a href="https://hakansabunis.com"><img src="https://img.shields.io/badge/Portfolio-hakansabunis.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/hakansabunis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://huggingface.co/hakansabunis"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"></a>
+  <a href="mailto:hakansabunis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
 
 ---
 
