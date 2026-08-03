@@ -1,22 +1,17 @@
 <h1 align="center">Hi, I'm Hakan Sabuniş 👋</h1>
 
-<p align="center">
-  🤖 <b>AI &amp; Machine Learning</b> Engineer &nbsp;•&nbsp; Deep Learning &nbsp;•&nbsp; LLM Agents<br>
-  Electrical &amp; Electronics Engineer · Istanbul Medipol University (Honor) · Working Student @ <b>Siemens Mobility</b>
-</p>
+
 
 <p align="center">
-  <a href="https://hakansabunis.com"><img src="https://img.shields.io/badge/Portfolio-hakansabunis.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/hakansabunis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/hakansabunis"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"></a>
-  <a href="mailto:hakansabunis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <b>Electrical &amp; Electronics Engineer</b> · Istanbul Medipol University (Honor) · Working Student @ <b>Siemens Mobility</b><br>
+  🤖 <b>AI &amp; ML Interests</b> &nbsp;&nbsp;
 </p>
 
 ---
 
 ### 🚀 About me
 
-- 🤖 **Main focus: AI & Machine Learning** — deep learning, time-series forecasting, LLM agents & RAG
+- 🤖 **Main focus: AI & Machine Learning** 
 - 🎓 B.Sc. in Electrical & Electronics Engineering, **Istanbul Medipol University** (2021–2026, Honor)
 - 🚄 **Part-Time Working Student @ Siemens Mobility** — Fit4Rail program
 - 📶 Also into: **Digital Signal Processing** · **Wireless Communications & RF**
