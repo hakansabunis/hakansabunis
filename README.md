@@ -22,7 +22,7 @@
 
 - 🤖 **Main focus: AI & Machine Learning** 
 - 🎓 B.Sc. in Electrical & Electronics Engineering, **Istanbul Medipol University** (2021–2026, Honor)
-- 🚄 **Part-Time Working Student @ Siemens Mobility** — Fit4Rail program
+- 🚄 **Working Student @ Siemens Mobility** — Fit4Rail program
 - 📶 Also into: **Digital Signal Processing** · **Wireless Communications & RF**
 - 🌍 Full portfolio → **[hakansabunis.com](https://hakansabunis.com)**
 
