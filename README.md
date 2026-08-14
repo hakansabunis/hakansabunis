@@ -34,7 +34,7 @@
 ### 📄 Publication
 
 > **TFT-Flood for Nationwide Flood Prediction in Turkey: A Three-Branch Hybrid Deep Learning Architecture**<br>
-> H. Sabuniş, Y. Ünlü, and M. K. Özdemir<br>
+> Hakan Sabuniş, Yusuf Ünlü, and Prof.Dr. Mehmet Kemal Özdemir<br>
 > *2026 34th Signal Processing and Communications Applications Conference (SIU)*, IEEE, Jul. 2026, pp. 1–4.<br>
 > **DOI:** [10.1109/SIU71813.2026.11636290](https://doi.org/10.1109/SIU71813.2026.11636290)
 
