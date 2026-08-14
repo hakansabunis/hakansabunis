@@ -31,11 +31,12 @@
 `Deep Learning` · `Time-Series Forecasting` · `Transformers` · `LLM Agents` · `RAG` · `MLOps` · `Model Evaluation & Anti-Leakage`
 
 ---
-
 ### 📄 Publication
 
 > **TFT-Flood for Nationwide Flood Prediction in Turkey: A Three-Branch Hybrid Deep Learning Architecture**<br>
-> Hakan Sabuniş, Yusuf Ünlü, Mehmet Kemal Özdemir &nbsp;(**IEEE SIU 2026**)<br>
+> H. Sabuniş, Y. Ünlü, and M. K. Özdemir<br>
+> *2026 34th Signal Processing and Communications Applications Conference (SIU)*, IEEE, Jul. 2026, pp. 1–4.<br>
+> **DOI:** [10.1109/SIU71813.2026.11636290](https://doi.org/10.1109/SIU71813.2026.11636290)
 
 
 ---
